@@ -1,0 +1,5 @@
+REVIEWBOARD_URL = "https://rbcommons.com/s/Team3-swt301-se1833/"
+REPOSITORY = "Demo-Lab3"
+REPOSITORY_TYPE = "git"
+BRANCH = "main"
+LAND_DEST_BRANCH = "main"
